@@ -3,7 +3,7 @@
 <br>
 
 <p>
-  Electron React Boilerplate uses <a href="https://electron.atom.io/">Electron</a>, <a href="https://facebook.github.io/react/">React</a>, <a href="https://github.com/reactjs/react-router">React Router</a>, <a href="https://webpack.js.org/">Webpack</a> , <a href="https://www.npmjs.com/package/react-refresh">React Fast Refresh</a>.<p>and</p><a href="https://tailwindcss.com/">TailWind</a>
+  Electron React Boilerplate uses <a href="https://electron.atom.io/">Electron</a>, <a href="https://facebook.github.io/react/">React</a>, <a href="https://github.com/reactjs/react-router">React Router</a>, <a href="https://webpack.js.org/">Webpack</a> , <a href="https://www.npmjs.com/package/react-refresh">React Fast Refresh</a>and<a href="https://tailwindcss.com/">TailWind</a>
 </p>
 
 <br>
